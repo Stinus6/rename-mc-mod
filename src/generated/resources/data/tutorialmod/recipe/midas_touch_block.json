@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_block"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "g g",
+    "GNG",
+    "GGG"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:midas_touch_block"
+  }
+}
