@@ -1,4 +1,4 @@
-package net.stinus.renamemod.event;
+package net.stinus.renamemod.event.key;
 
 import net.minecraft.client.Minecraft;
 import net.minecraftforge.api.distmarker.Dist;

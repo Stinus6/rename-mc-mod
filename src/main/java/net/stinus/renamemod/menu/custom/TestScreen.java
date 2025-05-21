@@ -39,7 +39,8 @@ public class TestScreen extends Screen
             if (minecraft.player != null)
             {
                 customName = nameInput.getValue();
-                minecraft.player.sendSystemMessage(Component.literal("Name Successfully Changed"));
+
+//                minecraft.player.sendSystemMessage(Component.literal("Name Successfully Changed"));
                 minecraft.player.setCustomName(Component.literal(customName));
                 minecraft.player.setCustomNameVisible(true);
 
